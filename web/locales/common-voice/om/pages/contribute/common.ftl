@@ -3,91 +3,91 @@ action-tap = Tuqi
 contribute = Gumaachi
 review = Ilaali
 skip = Irra Darbi
-shortcuts = Gabaabsii
+shortcuts = Gabaabsiiwwan
 clips-with-count-pluralized =
     { $count ->
-        [one] <bold>{ $count }</bold> Clip
-       *[other] <bold>{ $count }</bold> Clips
+        [one] <bold>{ $count }</bold> Kiliippii
+       *[other] <bold>{ $count }</bold> Kiliippiiwwan
     }
-goal-help-recording = You've helped Common Voice reach <goalPercentage></goalPercentage> of our daily { $goalValue } recording goal!
-goal-help-validation = You've helped Common Voice reach <goalPercentage></goalPercentage> of our daily { $goalValue } validation goal!
+goal-help-recording = Ati galma sagalee galmeessuu guyyaa { $goalValue } keessaa <goalPercentage></goalPercentage> akka ga’u Common Voice gargaarteetta!
+goal-help-validation = Ati galma mirkaneessuu guyyaa { $goalValue } keessaa <goalPercentage></goalPercentage> akka ga’u Common Voice gargaarteetta!
 contribute-more =
     { $count ->
-       *[other] Ready to do { $count } more?
+       *[other] Ammas { $count } daran hojjechuuf qophiidhaa?
     }
-speak-empty-state = We've run out of sentences to record in this language...
-no-sentences-for-variants = Your language variant might be out of sentences! If you’re comfortable, you can change your settings to see other sentences within your language.
-speak-empty-state-cta = Contribute sentences
+speak-empty-state = Afaan kana keessatti himootni waraabbiif jiran dhumaniiru...
+no-sentences-for-variants = Gosa afaan kee kanaaf himootni waraabbiif jiran dhumaniiru ta’uu mala! Yoo fedhii qabaatte, qindaa’ina kee jijjiiruun jechoota biroo afaan kee keessaa arguuf ni dandeessa.
+speak-empty-state-cta = Himoota Gumaachi
 speak-loading-error =
-    We couldn’t get any sentences for you to speak.
-    Please try again later.
-record-button-label = Record your voice
-share-title-new = <bold>Help us</bold> find more voices
-keep-track-profile = Keep track of your progress with a profile
-login-to-get-started = Log in or sign up to get started
-target-segment-first-card = You’re contributing to our first target segment
-target-segment-generic-card = You’re contributing to a target segment
-target-segment-first-banner = Help create Common Voice’s first target segment in { $locale }
-target-segment-add-voice = Add Your Voice
-target-segment-learn-more = Learn More
-change-preferences = Change preferences
+    Nuti hima sagalee kee itti waraabdu kamuu  argachuu hin dandeenye.
+    Maaloo irra deebiin yaalaa.
+record-button-label = Sagalee kee waraabi
+share-title-new = Sagalee danuu akka argannuuf <bold> nu deeggari </bold>
+keep-track-profile = Profaayilii fayyadamuun guddina hojii kee hordofi
+login-to-get-started = Eegaluuf, banii seeni ykn galmaa'i.
+target-segment-first-card = Ati manii keenya jalqabaaf gumaacha gochaa jirta
+target-segment-generic-card = Ati manii ga'uuf gumaachaa jirta
+target-segment-first-banner = Common Voice manii jalqabaa { $locale } uumuu irratti deeggari
+target-segment-add-voice = Sagalee kee galchi
+target-segment-learn-more = Daran baradhu
+change-preferences = Qindaa’inoota jijjiiri
 
-login-signup = Log In / Sign Up
-vote-yes = Yes
-vote-no = No
-datasets = Datasets
-languages = Languages
-about = About
-partner = Partner
-submit-form-action = Submit
+login-signup = Banii Seeni / Galmaa'i
+vote-yes = Haaya
+vote-no = Lakki
+datasets = Daataaseetota
+languages = Qooqawwan
+about = Waa'ee
+partner = Hirmaataa
+submit-form-action = Galchi
 
 ## Reporting
 
-report = Report
-report-title = Submit a report
-report-ask = What issues are you experiencing with this sentence?
-report-offensive-language = Offensive language
-report-offensive-language-detail = The sentence has disrespectful or offensive language.
-report-grammar-or-spelling = Grammatical / spelling error
-report-grammar-or-spelling-detail = The sentence has a grammatical or spelling error.
-report-different-language = Different language
-report-different-language-detail = It is written in a language different than what I’m speaking.
-report-difficult-pronounce = Difficult to pronounce
-report-difficult-pronounce-detail = It contains words or phrases that are hard to read or pronounce.
-report-offensive-speech = Offensive speech
-report-offensive-speech-detail = The clip has disrespectful or offensive language.
+report = Gabaasa
+report-title = Gabaasa galchi
+report-ask = Hima kana dubbisuun rakkoon akka akka si mudate gabaabinaan barreessi
+report-offensive-language = Hima arrabsoo
+report-offensive-language-detail = Himni kun kan safuu cabsee fi jecha arrabsoo dha
+report-grammar-or-spelling = Dogoggora seerlugaa / qubeessuu
+report-grammar-or-spelling-detail = Himichi dogoggora seerlugaa ykn dogoggora qubeessuu qaba.
+report-different-language = Qooqa garaagaraa
+report-different-language-detail = Himni kun afaan ani dubbachaa jiru irraa qaaqa addaan barreeffame.
+report-difficult-pronounce = Sagaleessuuf ulfaataa dha.
+report-difficult-pronounce-detail = Jecha ykn gaalee dubbisuuf ykn sagaleessuuf ulfaataa ta'e of keessaa qaba.
+report-offensive-speech = Jecha arrabsoo
+report-offensive-speech-detail = Kiliippichi safuu kan cabse ykn afaan arrabsooti.
 report-other-comment =
-    .placeholder = Comment
-success = Success
-continue = Continue
-report-success = Report was passed successfully
+    .placeholder = Yaada
+success = Milkaa'e
+continue = Itti fufi
+report-success = Gabaasichi milkaa'inaan ergameera
 
 ## Speak & Listen Shortcuts
 
-# Must be one letter that appears in the translated { skip } string.
-shortcut-skip = s
+# Must be one letter that appears in the translated { darbi } string.
+shortcut-skip = d
 
 ## Speak Shortcuts
 
 # Must be one letter that appears in the translated record-string inside of { shortcut-record-toggle-label }.
 # Must be different from { shortcut-skip }, { shortcut-vote-yes } and { shortcut-vote-no }
-shortcut-record-toggle = r
-shortcut-record-toggle-label = Record/Stop
+shortcut-record-toggle = w
+shortcut-record-toggle-label = Waraabi / Dhaabi
 shortcut-rerecord-toggle = [1-5]
-shortcut-rerecord-toggle-label = Re-record clip
+shortcut-rerecord-toggle-label = Irra deebiin kiliippii waraabi
 shortcut-discard-ongoing-recording = ESC
-shortcut-discard-ongoing-recording-label = Discard ongoing recording
-shortcut-submit = Return
-shortcut-submit-label = Submit clips
-request-language-text = Don't see your language on Common Voice yet?
-request-language-button = Request a Language
+shortcut-discard-ongoing-recording-label = Waraabbii jiru haqi
+shortcut-submit = Itti Darbi
+shortcut-submit-label = Kiliippota ergi
+request-language-text = Afaan kee amma Common Voice irratti hin mul’atu?
+request-language-button = Afaan gaafadhu
 
 ## Listen Shortcuts
 
 # Must be one letter that appears in the translated play-string inside of { shortcut-play-toggle-label }.
 # Must be different from { shortcut-skip }, { shortcut-vote-yes } and { shortcut-vote-no }
 shortcut-play-toggle = p
-shortcut-play-toggle-label = Play/Stop
+shortcut-play-toggle-label = Taphachiisi/Dhaabi
 # Must be one letter that appears in the { vote-yes } string.
 # Must be different from { shortcut-skip }, { shortcut-vote-no } and { shortcut-play-toggle }
 shortcut-vote-yes = y
@@ -97,21 +97,21 @@ shortcut-vote-no = n
 
 ## Validation criteria
 
-contribution-criteria-nav = Criteria
-contribution-criteria-link = Understand contribution criteria
-contribution-criteria-page-title = Contribution Criteria
-contribution-criteria-page-description = Understand what to look for when listening to voice clips and help make your voice recordings richer too!
-contribution-for-example = for example
-contribution-misreadings-title = Misreadings
-contribution-misreadings-description = When listening, check very carefully that what has been recorded is exactly what has been written; reject if there are even minor errors. <br />Very common mistakes include:
-contribution-misreadings-description-extended-list-1 = Missing <strong>'A'</strong> or <strong>'The'</strong> at the beginning of the recording.
-contribution-misreadings-description-extended-list-2 = Missing an <strong>'s'</strong> at the end of a word.
-contribution-misreadings-description-extended-list-3 = Reading contractions that aren't actually there, such as "We're" instead of "We are", or vice versa.
-contribution-misreadings-description-extended-list-4 = Missing the end of the last word by cutting off the recording too quickly.
-contribution-misreadings-description-extended-list-5 = Taking several attempts to read a word.
-contribution-misreadings-example-1-title = The giant dinosaurs of the Triassic.
+contribution-criteria-nav = Ulaagaa
+contribution-criteria-link = Ulaagaa hirmaannaa qalbifadhu
+contribution-criteria-page-title = Ulaagaa hirmaannaa
+contribution-criteria-page-description = Yeroo sagalee dhaggeeffattuu maal ilaaluu akka qabdu hubadhu akkasumas sagalee baay'isuun gargaari!
+contribution-for-example = fakkeenyaaf
+contribution-misreadings-title = dogoggora dubbisaa
+contribution-misreadings-description = Yeroo dhaggeeffattu, wanti barreeffamee fi wanti waraabame sirriitti tokko ta'uu isaa haleelii mirkaneeffadhu; yoo dogoggorri xiqqoon illee jiraate haqi. <br /> Yeroo baay'ee dogoggora beekamus dabalatee:
+contribution-misreadings-description-extended-list-1 = Jalqaba waraabbii irratti <strong>'A'</strong> ykn <strong>'The'</strong>n dagatameera.
+contribution-misreadings-description-extended-list-2 = Dhuma jechaa irratti <strong>'s'</strong>n dagatameera.
+contribution-misreadings-description-extended-list-3 = Dubbisa jechoota gabaajeffaman qubeen kan isa hin taane, kanneen akka "We're" jedhu bakka "We are" jedhu dubbachuun, yookiin isa biraa dubbachuun.
+contribution-misreadings-description-extended-list-4 = Waraabbii sagalee saffisaan addaan kutuun, jecha dhumaa sirriitti xumuruun hin danda’amne.
+contribution-misreadings-description-extended-list-5 = Jecha tokko dubbisuuf carraa hedduu fudhachuu.
+contribution-misreadings-example-1-title = Daaynoosaroota gurguddoo bara Tiriyaassik
 contribution-misreadings-example-2-title = The giant dinosaur of the Triassic.
-contribution-misreadings-example-2-explanation = [Should be ‘dinosaurs’]
+contribution-misreadings-example-2-explanation = [“daaynoosaroota” ta’uu qabu]
 contribution-misreadings-example-3-title = The giant dinosaurs of the Triassi-.
 contribution-misreadings-example-3-explanation = [Recording cut off before the end of the last word]
 contribution-misreadings-example-4-title = The giant dinosaurs of the Triassic. Yes.
