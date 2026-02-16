@@ -125,40 +125,28 @@ contribution-misreadings-example-8-title = Bambilbiin saffisaan deeme.
 contribution-misreadings-example-8-explanation = [Qabiyyee hinfiroomne]
 contribution-varying-pronunciations-title = Sagaleesduu garaagaraa
 contribution-varying-pronunciations-description = Kiliippiin tokko sababii dubbataan jecha sirriitti hin dubbifne, bakka sirrii hin kennineef, yookiin mallattoo gaaffii dagate jechuun haquun dura of eeggadhu. Addunyaa guutuu keessatti akkaataa dubbii adda addaatu jiru, kan muraasni naannoo kee keessatti hin dhagahamin jiraachuu danda’u. Namoota si irraa adda ta’een dubbataniif kabaja kenni.
-c
-
 contribution-varying-pronunciations-description-extended = Karaa biraa, yoo akka dubbataan jecha sana duraan hin beekneetti fudhatte, fi dubbii sirrii hin taane qofa yaalii gochaa jiraate, haqi. Yoo shakkii qabaatte, qabduu “Darbi” fayyadami.
-
 contribution-varying-pronunciations-example-1-title = Mataasaatti bereet uffateera.
 contribution-varying-pronunciations-example-1-explanation = [‘Bereet’ yeroo jalqabaa (YuuKee) ykn lammaffaa (YuuEssi) muddamni yoo irra jiraatellee rakkina hin qabu]
-
 contribution-varying-pronunciations-example-2-title = Harka isaa olka’e ture.
 contribution-varying-pronunciations-example-2-explanation = [‘Raised’ afaan Ingiliffaa keessatti birsaga tokko qofatti dubbifama malee, lama miti]
-
 contribution-background-noise-title = Waca Dudduubaa
 contribution-background-noise-description = Barachuun maashinii Algoorizimii sagalee dudduubaa garaagaraa akka hordofuu danda’u barbaanna. Kanaaf birqabaan sagaleen dudduubaa sagalee barruu sirriitti dhagahamu yoo hin dhorkine ni fudhatama. Sagalee dudduubaa dhiphisaa yoo guutuu barruu dhagahamuu dhorke hin fudhatamu.
 contribution-background-noise-description-extended = Yoo waraabbii yoo adda cite ykn yoo ciccita qabaate, guutuun barruu yoo dhagahamu baate haqi.
-
 contribution-background-noise-example-1-fixed-title = <strong>[Sneeze]</strong> Daaynoosaroota gurguddoo <strong>[cough]</strong> Yeroo Tiriyaassik.
 contribution-background-noise-example-2-fixed-title = Daaynoosaroota gurguddoo <strong>[cough]</strong> Yeroo Tiriyaassik.
 contribution-background-noise-example-2-explanation = [Barruu tokko guutummaan dhagahamuu hin danda’u]
 contribution-background-noise-example-3-fixed-title = <strong>[Crackle]</strong> Daaynoosaroota gurguddoo <strong>[crackle]</strong> -riassic.
-
 contribution-background-voices-title = Sagaleewwan dudduubaa
 contribution-background-voices-description = Sagalee duubaa xiqqoo ni fudhatama, garuu sagaleen nama biroo barruu irra hin jirre akka galmee sirrii hin qabanneef akka hin baramne barbaadna. Jechoota barruu ala dhagahame yoo jiraate, kiliippiin haqamuu qaba. Kun yeroo TV'n baname ykn walgahiin naannoo jiru mudata.
 contribution-background-voices-description-extended = Yoo waraabbiin adda cite ykn crackles qabaate, guutuu barruun yoo dhagahame malee haqi.
-
 contribution-background-voices-example-1-title = Daaynoosaroota gurguddoo Yeroo Tiriyaassik. <strong>[Sagalee tokkoon dubbatame]</strong>
 contribution-background-voices-example-1-explanation = Ati dhufaa jirtaa? <strong>[namni biraa waame]</strong>
-
 contribution-volume-title = Hammamtaa sagalee
 contribution-volume-description = Sagaleen dubbataa garaagaraa ni jiraata. Yoo sagaleen olka’ee waraabbiin adda ciccite ykn sagaleen gadi bu’e guutuun barruu yoo hin dhagahamne haqi.
-
 contribution-reader-effects-title = Miira Dubbataa
 contribution-reader-effects-description = Waraabbiin hedduun sagalee namaa dhugaa keessaa fudhatame. Galmee sirrii hin taane kan sagalee olka’e, xiqqoo dubbate, ykn “dramatic” ta’e ni fudhatama. Galmee sirrii hin taane kan sirbame fi sagalee computer-synthesized fayyadame haqi.
-
 contribution-just-unsure-title = Shakkii Qabaattee?
 contribution-just-unsure-description = Yoo wanti qajeelfama kana keessatti hin kaafamne si mudate, sagalee irratti murtii keetiin vote gochuu. Yoo murtii hin dandeenye, button “Darbi” fayyadami, kiliippiitti itti fufi.
-
 see-more = <chevron></chevron>Bal’inaan ilaali
 see-less = <chevron></chevron>Xiqqeenyaan ilaali
