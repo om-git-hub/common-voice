@@ -25,6 +25,6 @@ review-transcriptions-menu-item-tooltip = Qooqa keessan keessatti barruu fayyada
 
 ## MENU ITEM ARIA LABELS
 
-listen-contribute-menu-aria-label = Filannoowwan dhaggeeffadhaa maaltu jira
+listen-contribute-menu-aria-label = Filannoowwan dhaggeeffannaa jiran
 validate-readings-menu-item-aria-label = Miseensota hawaasichaan barruu galfamee gamaggamaa
 review-transcriptions-menu-item-aria-label = Himootaa fi barruu sirrummaan galmaa'an gamaggami
