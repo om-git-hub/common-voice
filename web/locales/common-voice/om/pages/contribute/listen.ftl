@@ -9,7 +9,7 @@ listen-empty-state-variants = Garaagarummaan qooqaa tarree alatti jiraachuu dand
 listen-loading-error =
     Dhageettiif tarree himaa argachuu hin dandeenye.
     Maaloo xiqqoo turaa yaalaa
-listen-abort-title = Tarreewwan mirkaneessuu haa goolabu?
+listen-abort-title = Tarreewwan mirkaneessuu haa goolabuu?
 listen-abort-cancel = Mirkaneessuu itti fufaa
 listen-abort-confirm = Mirkaneessuu goolabi
 # Menu item
