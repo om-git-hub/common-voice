@@ -5,26 +5,26 @@ listen-again-instruction = Hojii Bareedaa! <playIcon> </playIcon> Yeroo qophii t
 listen-3rd-time-instruction = 2 dhumate, itti fufi!<playIcon></playIcon>
 listen-last-time-instruction = <playIcon></playIcon> isa xumuraa!
 listen-empty-state = Himootni dhumaniiru ta'a - fuulicha haaressaa ykn xiqqoo turaa yaalaa.
-listen-empty-state-variants = የቋንቋዎ ልዩነት ከቅንጥቦች ውጭ ሊሆን ይችላል! ከተመችዎ፣ በቋንቋዎ ውስጥ ያሉ ሌሎች ዓረፍተ-ነገሮችን ለማየት ቅንብሮችዎን መቀየር ይችላሉ።
+listen-empty-state-variants = Garaagarummaan qooqaa tarree alatti jiraachuu danda'a! Yoo sinii mijate, Himoota biroo qooqa kee keessa jiran ilaaluuf qindaa'inoota sirreessaa.
 listen-loading-error =
-    ለማዳመጥ ምንም የድምጽ ቅንጥቦችን ማግኘት አልቻልንም።
-    እባክዎ ቆየት ብለው ይሞክሩ።
-listen-abort-title = ቅንጥቦችን ማረጋገጥ ይጨርስ?
-listen-abort-cancel = ማረጋገጡን ይቀጥሉ
-listen-abort-confirm = ማረጋገጥን ጨርስ
+    Dhageettiif tarree himaa argachuu hin dandeenye.
+    Maaloo xiqqoo turaa yaalaa
+listen-abort-title = Tarreewwan mirkaneessuu haa goolabu?
+listen-abort-cancel = Mirkaneessuu itti fufaa
+listen-abort-confirm = Mirkaneessuu goolabi
 # Menu item
-validate-readings = ንባቦችን ያረጋግጡ
+validate-readings = Barruulee mirkaneessaa
 # text wrapped in <small></small> will be shown in a smaller font size
-validate-readings-coming-soon = ንባቦችን አረጋግጥ <ትንሽ>(በቅርብ ቀን)</small>
+validate-readings-coming-soon = Barruulee mirkaneessi <muraasa>(Guyyaa dhiyootti)</small>
 
 ## MENU ITEM TOOLTIPS
 
-listen-contribute-menu-tooltip = ንባቦችን ያረጋግጡ፣ ፅሁፎችን ይገምግሙ
-validate-readings-menu-item-tooltip = በቋንቋዎ ተጠቃሚ የተቀዳ ንባቦችን አረጋግጥ
-review-transcriptions-menu-item-tooltip = በቋንቋዎ ውስጥ በተጠቃሚ የገቡትን ፅሁፎች ይገምግሙ
+listen-contribute-menu-tooltip = Barruulee mirkaneessaa, barreeffamoota gamaggamaa
+validate-readings-menu-item-tooltip = Barruu fayyadamaa qooqa keen waraabbame mirkaneessi
+review-transcriptions-menu-item-tooltip = Qooqa keessan keessatti barruu fayyadamaadhaan galfaman gamaggamaa.
 
 ## MENU ITEM ARIA LABELS
 
-listen-contribute-menu-aria-label = የማዳመጥ አማራጮች ምናሌ
-validate-readings-menu-item-aria-label = በማህበረሰቡ አባላት የቀረቡ ንባቦችን ያረጋግጡ
-review-transcriptions-menu-item-aria-label = ለትክክለኛነት የተመዘገቡትን ዓረፍተ ነገሮች ፅሁፎች ይገምግሙ
+listen-contribute-menu-aria-label = Filannoowwan dhaggeeffadhaa maaltu jira
+validate-readings-menu-item-aria-label = Miseensota hawaasichaan barruu galfamee gamaggamaa
+review-transcriptions-menu-item-aria-label = Himootaa fi barruu sirrummaan galmaa'an gamaggami
