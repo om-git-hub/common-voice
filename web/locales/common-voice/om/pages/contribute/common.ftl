@@ -125,28 +125,40 @@ contribution-misreadings-example-8-title = Bambilbiin saffisaan deeme.
 contribution-misreadings-example-8-explanation = [Qabiyyee hinfiroomne]
 contribution-varying-pronunciations-title = Sagaleesduu garaagaraa
 contribution-varying-pronunciations-description = Kiliippiin tokko sababii dubbataan jecha sirriitti hin dubbifne, bakka sirrii hin kennineef, yookiin mallattoo gaaffii dagate jechuun haquun dura of eeggadhu. Addunyaa guutuu keessatti akkaataa dubbii adda addaatu jiru, kan muraasni naannoo kee keessatti hin dhagahamin jiraachuu danda’u. Namoota si irraa adda ta’een dubbataniif kabaja kenni.
-contribution-varying-pronunciations-description-extended = On the other hand, if you think that the reader has probably never come across the word before, and is simply making an incorrect guess at the pronunciation, please reject. If you are unsure, use the skip button.
-contribution-varying-pronunciations-example-1-title = On his head he wore a beret.
-contribution-varying-pronunciations-example-1-explanation = [‘Beret’ is OK whether with stress on the first syllable (UK) or the second (US)]
-contribution-varying-pronunciations-example-2-title = His hand was rais-ed.
-contribution-varying-pronunciations-example-2-explanation = [‘Raised’ in English is always pronounced as one syllable, not two]
-contribution-background-noise-title = Background Noise
-contribution-background-noise-description = We want the machine learning algorithms to able to handle a variety of background noise, and even relatively loud noises can be accepted provided that they don’t prevent you from hearing the entirety of the text. Quiet background music is OK; music loud enough to prevent you from hearing each and every word is not.
-contribution-background-noise-description-extended = If the recording breaks up, or has crackles, reject unless the entirety of the text can still be heard.
-contribution-background-noise-example-1-fixed-title = <strong>[Sneeze]</strong> The giant dinosaurs of the <strong>[cough]</strong> Triassic.
-contribution-background-noise-example-2-fixed-title = The giant dino <strong>[cough]</strong> the Triassic.
-contribution-background-noise-example-2-explanation = [Part of the text can’t be heard]
-contribution-background-noise-example-3-fixed-title = <strong>[Crackle]</strong> giant dinosaurs of <strong>[crackle]</strong> -riassic.
-contribution-background-voices-title = Background Voices
-contribution-background-voices-description = A quiet background hubbub is OK, but we don’t want additional voices that may cause a machine algorithm to identify words that are not in the written text. If you can hear distinct words apart from those of the text, the clip should be rejected. Typically this happens where the TV has been left on, or where there is a conversation going on nearby.
-contribution-background-voices-description-extended = If the recording breaks up, or has crackles, reject unless the entirety of the text can still be heard.
-contribution-background-voices-example-1-title = The giant dinosaurs of the Triassic. <strong>[read by one voice]</strong>
-contribution-background-voices-example-1-explanation = Are you coming? <strong>[called by another]</strong>
-contribution-volume-title = Volume
-contribution-volume-description = There will be natural variations in volume between readers. Reject only if the volume is so high that the recording breaks up, or (more commonly) if it is so low that you can’t hear what is being said without reference to the written text.
-contribution-reader-effects-title = Reader Effects
-contribution-reader-effects-description = Most recordings are of people talking in their natural voice. You can accept the occasional non-standard recording that is shouted, whispered, or obviously delivered in a ‘dramatic’ voice. Please reject sung recordings and those using a computer-synthesized voice.
-contribution-just-unsure-title = Just Unsure?
-contribution-just-unsure-description = If you come across something that these guidelines don’t cover, please vote according to your best judgement. If you really can’t decide, use the skip button and go on to the next recording.
-see-more = <chevron></chevron>See more
-see-less = <chevron></chevron>See less
+c
+
+contribution-varying-pronunciations-description-extended = Karaa biraa, yoo akka dubbataan jecha sana duraan hin beekneetti fudhatte, fi dubbii sirrii hin taane qofa yaalii gochaa jiraate, haqi. Yoo shakkii qabaatte, qabduu “Darbi” fayyadami.
+
+contribution-varying-pronunciations-example-1-title = Mataasaatti bereet uffateera.
+contribution-varying-pronunciations-example-1-explanation = [‘Bereet’ yeroo jalqabaa (YuuKee) ykn lammaffaa (YuuEssi) muddamni yoo irra jiraatellee rakkina hin qabu]
+
+contribution-varying-pronunciations-example-2-title = Harka isaa olka’e ture.
+contribution-varying-pronunciations-example-2-explanation = [‘Raised’ afaan Ingiliffaa keessatti birsaga tokko qofatti dubbifama malee, lama miti]
+
+contribution-background-noise-title = Waca Dudduubaa
+contribution-background-noise-description = Barachuun maashinii Algoorizimii sagalee dudduubaa garaagaraa akka hordofuu danda’u barbaanna. Kanaaf birqabaan sagaleen dudduubaa sagalee barruu sirriitti dhagahamu yoo hin dhorkine ni fudhatama. Sagalee dudduubaa dhiphisaa yoo guutuu barruu dhagahamuu dhorke hin fudhatamu.
+contribution-background-noise-description-extended = Yoo waraabbii yoo adda cite ykn yoo ciccita qabaate, guutuun barruu yoo dhagahamu baate haqi.
+
+contribution-background-noise-example-1-fixed-title = <strong>[Sneeze]</strong> Daaynoosaroota gurguddoo <strong>[cough]</strong> Yeroo Tiriyaassik.
+contribution-background-noise-example-2-fixed-title = Daaynoosaroota gurguddoo <strong>[cough]</strong> Yeroo Tiriyaassik.
+contribution-background-noise-example-2-explanation = [Barruu tokko guutummaan dhagahamuu hin danda’u]
+contribution-background-noise-example-3-fixed-title = <strong>[Crackle]</strong> Daaynoosaroota gurguddoo <strong>[crackle]</strong> -riassic.
+
+contribution-background-voices-title = Sagaleewwan dudduubaa
+contribution-background-voices-description = Sagalee duubaa xiqqoo ni fudhatama, garuu sagaleen nama biroo barruu irra hin jirre akka galmee sirrii hin qabanneef akka hin baramne barbaadna. Jechoota barruu ala dhagahame yoo jiraate, kiliippiin haqamuu qaba. Kun yeroo TV'n baname ykn walgahiin naannoo jiru mudata.
+contribution-background-voices-description-extended = Yoo waraabbiin adda cite ykn crackles qabaate, guutuu barruun yoo dhagahame malee haqi.
+
+contribution-background-voices-example-1-title = Daaynoosaroota gurguddoo Yeroo Tiriyaassik. <strong>[Sagalee tokkoon dubbatame]</strong>
+contribution-background-voices-example-1-explanation = Ati dhufaa jirtaa? <strong>[namni biraa waame]</strong>
+
+contribution-volume-title = Hammamtaa sagalee
+contribution-volume-description = Sagaleen dubbataa garaagaraa ni jiraata. Yoo sagaleen olka’ee waraabbiin adda ciccite ykn sagaleen gadi bu’e guutuun barruu yoo hin dhagahamne haqi.
+
+contribution-reader-effects-title = Miira Dubbataa
+contribution-reader-effects-description = Waraabbiin hedduun sagalee namaa dhugaa keessaa fudhatame. Galmee sirrii hin taane kan sagalee olka’e, xiqqoo dubbate, ykn “dramatic” ta’e ni fudhatama. Galmee sirrii hin taane kan sirbame fi sagalee computer-synthesized fayyadame haqi.
+
+contribution-just-unsure-title = Shakkii Qabaattee?
+contribution-just-unsure-description = Yoo wanti qajeelfama kana keessatti hin kaafamne si mudate, sagalee irratti murtii keetiin vote gochuu. Yoo murtii hin dandeenye, button “Darbi” fayyadami, kiliippiitti itti fufi.
+
+see-more = <chevron></chevron>Bal’inaan ilaali
+see-less = <chevron></chevron>Xiqqeenyaan ilaali
