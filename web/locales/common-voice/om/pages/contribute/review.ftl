@@ -3,7 +3,7 @@
 sc-review-lang-not-selected = Qooqa kamiyyuu hin filanne. Qooqawwan filachuuf maaloo gara <profileLink>ibsagaa</profileLink> deemaa.
 sc-review-title = Himoota gamaggamaa
 sc-review-loading = Himoota gadi qabuun …
-sc-review-select-language = Naaloo Himoota gamaggamuuf qooqawwan filadhaa.
+sc-review-select-language = Maaloo Himoota gamaggamuuf qooqawwan filadhaa.
 sc-review-no-sentences = Himoonni gamaggamamuu jedhan kamuu hin jiran. <addLink>Amma himoota dabalataa galchaa!</ addLink>
 sc-review-form-prompt =
     .message = Himoonni ilaalaman hin galle. Isin mikannoo dhaa?
@@ -20,20 +20,19 @@ sc-review-form-button-approve-shortcut = M
 sc-review-form-button-reject-shortcut = K
 # Keyboard shortcut to use to skip a sentence (sc-review-form-button-skip)
 sc-review-form-button-skip-shortcut = I
-sc-review-form-keyboard-usage-custom = Akkasumas kiyboordii gabaabsii biraa fayyadamuu dandeessa.
-{ sc-review-form-button-approve-shortcut } Cimsuuf, { sc-review-form-button-reject-shortcut } Kutaa Gochuuf, { sc-review-form-button-skip-shortcut } Irra darbuuf
+sc-review-form-keyboard-usage-custom = Akkasumas kiyboordii gabaabsii biraa fayyadamuu dandeessa: { sc-review-form-button-approve-shortcut } Cimsuuf, { sc-review-form-button-reject-shortcut } Kutaa Gochuuf, { sc-review-form-button-skip-shortcut } Irra darbuuf
 sc-review-form-button-submit =
     .submitText = Gamaggama kee goolabi.
 # Variables:
 #   $sentences (Number) - Number of sentences the user has reviewed in this session
 sc-review-form-reviewed-message =
     { $sentences ->
-        [0] Himni tokkoyyuu hin gamaggamane
-        [one] 1 Himni gamaggamameera. Sin galateeffadha!
+        [0] Himni tokkoyyuu hin gamaggamamne
+        [one] Himni 1 gamaggamameera. Sin galateeffadha!
        *[other] { $sentences } himoonni gamagamamaniiru. singalateeffadha!
     }
-sc-review-form-review-failure = ግምገማ ሊቀመጥ አልቻለም። እባክዎ ቆየት ብለው ይሞክሩ።
-sc-review-link = ይገምግሙ
+sc-review-form-review-failure = Gamaggamni olkaa'amuu hin dandeenye. Maaloo xiqqoo turaa yaalaa.
+sc-review-link = gamaggamaa
 
 ## REVIEW CRITERIA
 
