@@ -53,9 +53,9 @@ report-sc-different-language = Qooqa garaagaraa
 report-sc-different-language-detail = Qooqa ani gamaggamaa jiru irraa qooqa biraan barreeffameera.
 sentences-fetch-error = Himicha fiduu irratti dogoggorri uumameera.
 review-error = Hima kana gamaggamuu irratti dogoggorri uumameera.
-review-error-rate-limit-exceeded = Baayyee saffisaan adeemsisaa jirtu. አረፍተነገሩ ትክክል መሆኑን ለማረጋገጥ እባክዎን ትንሽ ጊዜ ይውሰዱ።
+review-error-rate-limit-exceeded = Baayyee saffisaan adeemsisaa jirtu. himichi sirrii ta'uu mirkaneessuuf maaloo yeroo xiqqoo fudhadhaa.
 # SENTENCE-COLLECTOR-REDIRECT PAGE
-sc-redirect-page-title = አንዳንድ ትልልቅ ለውጦችን እያደረግን ነው።
+sc-redirect-page-title = jijjiiramoota gurguddoo tokko tokko gochaa jirra.
 sc-redirect-page-subtitle-1 = Hima walitti qabdichi gara waltajjii sagalee waliinii innikkaa deemaa jira. Hima amma waltajii sagalee waliinii <writeURL>barreessuu</writeURL> ykn hima qeenxee <reviewURL>gamaggamuu</reviewURL> dandeessu.
 sc-redirect-page-subtitle-2 = Gaaffilee <discourseLink>Diskoorii</discourseLink>,  <matrixLink> Matriksiin </matrixLink> yookiin  <emailLink>Imeelii</emailLink> irratti nu gaafadhaa.
 # menu item
