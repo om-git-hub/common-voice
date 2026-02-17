@@ -20,7 +20,7 @@ sc-review-form-button-approve-shortcut = M
 sc-review-form-button-reject-shortcut = K
 # Keyboard shortcut to use to skip a sentence (sc-review-form-button-skip)
 sc-review-form-button-skip-shortcut = I
-sc-review-form-keyboard-usage-custom = Akkasumas kiyboordii gabaabsii biraa fayyadamuu dandeessa: { sc-review-form-button-approve-shortcut } Cimsuuf, { sc-review-form-button-reject-shortcut } Kutaa Gochuuf, { sc-review-form-button-skip-shortcut } Irra darbuuf
+sc-review-form-keyboard-usage-custom = Akkasumas kiyboordii gabaabsii biraa fayyadamuu dandeessa:{ sc-review-form-button-approve-shortcut } Cimsuuf, { sc-review-form-button-reject-shortcut } Kutaa Gochuuf, { sc-review-form-button-skip-shortcut } Irra darbuuf
 sc-review-form-button-submit =
     .submitText = Gamaggama kee goolabi.
 # Variables:
