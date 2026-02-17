@@ -56,7 +56,7 @@ review-error = Hima kana gamaggamuu irratti dogoggorri uumameera.
 review-error-rate-limit-exceeded = Baayyee saffisaan adeemsisaa jirtu. አረፍተነገሩ ትክክል መሆኑን ለማረጋገጥ እባክዎን ትንሽ ጊዜ ይውሰዱ።
 # SENTENCE-COLLECTOR-REDIRECT PAGE
 sc-redirect-page-title = አንዳንድ ትልልቅ ለውጦችን እያደረግን ነው።
-sc-redirect-page-subtitle-1 = ዓረፍተ ነገር ሰብሳቢው ወደ ዋናው የጋራ ድምጽ መድረክ እየሄደ ነው። አሁን በጋራ ድምጽ ላይ የገባውን አንድ ዓረፍተ ነገር <writeURL>መጻፍ</writeURL> ወይም ነጠላ ዓረፍተ ነገር <reviewURL>መገምገም</reviewURL> ይችላሉ።
-sc-redirect-page-subtitle-2 = ጥያቄዎችን በ<matrixLink>ማትሪክስ</matrixLink>፣ <discourseLink>ዲስኩር</discourseLink> ወይም <emailLink>ኢሜል</emailLink> ላይ ይጠይቁን።
+sc-redirect-page-subtitle-1 = Hima walitti qabdichi gara waltajjii sagalee waliinii innikkaa deemaa jira. Hima amma waltajii sagalee waliinii <writeURL>barreessuu</writeURL> ykn hima qeenxee <reviewURL>gamaggamuu</reviewURL> dandeessu.
+sc-redirect-page-subtitle-2 = Gaaffilee <discourseLink>Diskoorii</discourseLink>,  <matrixLink> Matriksiin </matrixLink> yookiin  <emailLink>Imeelii</emailLink> irratti nu gaafadhaa.
 # menu item
-review-sentences = ዓረፍተ ነገሮችን ይገምግሙ
+review-sentences = Himoota gamaggamaa
