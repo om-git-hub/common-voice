@@ -36,24 +36,24 @@ sc-review-link = gamaggamaa
 
 ## REVIEW CRITERIA
 
-sc-criteria-modal = ⓘ የግምገማ መስፈርቶች
-sc-criteria-title = የግምገማ መስፈርቶች
-sc-criteria-make-sure = ዓረፍተ ነገሩ የሚከተሉትን መመዘኛዎች የሚያሟላ መሆኑን ያረጋግጡ።
-sc-criteria-item-1 = አረፍተ ነገሩ በትክክል መፃፍ አለበት።
-sc-criteria-item-2 = አረፍተ ነገሩ በሰዋሰው ትክክለኛ መሆን አለበት።
-sc-criteria-item-3 = አረፍተ ነገሩ የሚነገር መሆን አለበት።
-sc-criteria-item-4 = ዓረፍተ ነገሩ መስፈርቱን የሚያሟላ ከሆነ &quot;አጽድቅ&quot; የሚለውን በቀኝ በኩል ያለውን አዝራር ጠቅ ያድርጉ።
-sc-criteria-item-5-2 = ዓረፍተ ነገሩ ከላይ የተጠቀሱትን መመዘኛዎች የማያሟላ ከሆነ፣ "ውድቅ" የሚለውን ቁልፍ ጠቅ ያድርጉ። ስለ ዓረፍተ ነገሩ እርግጠኛ ካልሆኑ፣ እሱንም መዝለል እና ወደሚቀጥለው መቀጠል ይችላሉ።
-sc-criteria-item-6 = ለመገምገም ዓረፍተ ነገሮች ካለቀብዎት፣ እባክዎን ተጨማሪ ዓረፍተ ነገሮችን እንድንሰበስብ ያግዙን!
+sc-criteria-modal = ⓘ ulaagaa gamaggammii
+sc-criteria-title = Ulaagaa Gamaggammii
+sc-criteria-make-sure = Himichi ulaagaawwan kana guutuu isaa mirkaneessaa.
+sc-criteria-item-1 = himichi sirriitti qubeeffamuu qaba.
+sc-criteria-item-2 = Himichi seerlugaa kan eege ta'uu qaba.
+sc-criteria-item-3 = Himichi kan sagaleeffamuu danda'u ta'uu qaba.
+sc-criteria-item-4 = Himichi ulaagaa yoo guute &quot;mirkaneessi&quot; kan jedhu karaa  mirgaa mallattoo jiru cuqaasi.
+sc-criteria-item-5-2 = Himichi ulaagaawwan olii kan hin guunne yoo ta'e, furtuu "Kufaa"jedhu tuqi. waa'ee himichaa mirkannoo miti yoo ta'e irra darbuu fi kan ittaanutti deemuu dandeessu.
+sc-criteria-item-6 = Gamaggamuuf himootni yoo sinjalaa dhumatan, maaloo himoota dabalataa akka walitti qabnuuf nu gargaaraa!
 # <icon></icon> will be replace with an icon that represents review
-sc-review-instruction = አረጋግጥ <icon></icon> ይህ በቋንቋ ትክክል የሆነ ዓረፍተ-ነገር ነውን?
-sc-review-rules-title = ዓረፍተ-ነገሩ መመሪያዎቹን ያሟላል?
-sc-review-empty-state = በአሁኑ ጊዜ በዚህ ቋንቋ የሚገመገሙ ዓረፍተ-ነገሮች የሉም።
-report-sc-different-language = የተለያየ ቋንቋ
-report-sc-different-language-detail = እኔ እየገመገምኩት ካለው በተለየ ቋንቋ ነው የተፃፈው።
-sentences-fetch-error = ዓረፍተ-ነገሮችን ማምጣት ላይ ስህተት ተፈጥሯል
-review-error = ይህን ዓረፍተ-ነገር በመገምገም ላይ ስህተት ተፈጥሯል
-review-error-rate-limit-exceeded = በጣም በፍጥነት እያስኼዱት ነው። አረፍተነገሩ ትክክል መሆኑን ለማረጋገጥ እባክዎን ትንሽ ጊዜ ይውሰዱ።
+sc-review-instruction = Dhugumatti <icon></icon>n kun qooqaaf sirraadhaa?
+sc-review-rules-title = Himichi ulaagaawwan ni guutaa?
+sc-review-empty-state = Yeroo ammaa qooqa kanaan himootni gamaggamaman hin jiran.
+report-sc-different-language = Qooqa garaagaraa
+report-sc-different-language-detail = Qooqa ani gamaggamaa jiru irraa qooqa biraan barreeffameera.
+sentences-fetch-error = Himicha fiduu irratti dogoggorri uumameera.
+review-error = Hima kana gamaggamuu irratti dogoggorri uumameera.
+review-error-rate-limit-exceeded = Baayyee saffisaan adeemsisaa jirtu. አረፍተነገሩ ትክክል መሆኑን ለማረጋገጥ እባክዎን ትንሽ ጊዜ ይውሰዱ።
 # SENTENCE-COLLECTOR-REDIRECT PAGE
 sc-redirect-page-title = አንዳንድ ትልልቅ ለውጦችን እያደረግን ነው።
 sc-redirect-page-subtitle-1 = ዓረፍተ ነገር ሰብሳቢው ወደ ዋናው የጋራ ድምጽ መድረክ እየሄደ ነው። አሁን በጋራ ድምጽ ላይ የገባውን አንድ ዓረፍተ ነገር <writeURL>መጻፍ</writeURL> ወይም ነጠላ ዓረፍተ ነገር <reviewURL>መገምገም</reviewURL> ይችላሉ።
