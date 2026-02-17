@@ -1,35 +1,36 @@
 ## REVIEW
 
-sc-review-lang-not-selected = ምንም ቋንቋ አልመረጡም። ቋንቋዎችን ለመምረጥ እባክዎ ወደ <profileLink>መገለጫዎ</profileLink> ይሂዱ።
-sc-review-title = ዓረፍተ ነገሮችን ይገምግሙ
-sc-review-loading = ዓረፍተ ነገሮችን በመጫን ላይ…
-sc-review-select-language = እባክዎን ዓረፍተ ነገሮችን ለመገምገም ቋንቋ ይምረጡ።
-sc-review-no-sentences = ምንም የሚገመገሙ ዓረፍተ ነገሮች የሉም። <addLink>አሁን ተጨማሪ ዓረፍተ ነገሮችን አክል!</ addLink>
+sc-review-lang-not-selected = Qooqa kamiyyuu hin filanne. Qooqawwan filachuuf maaloo gara <profileLink>ibsagaa</profileLink> deemaa.
+sc-review-title = Himoota gamaggamaa
+sc-review-loading = Himoota gadi qabuun …
+sc-review-select-language = Naaloo Himoota gamaggamuuf qooqawwan filadhaa.
+sc-review-no-sentences = Himoonni gamaggamamuu jedhan kamuu hin jiran. <addLink>Amma himoota dabalataa galchaa!</ addLink>
 sc-review-form-prompt =
-    .message = የተገመገሙ ዓረፍተ ነገሮች አልገቡም፣ እርግጠኛ ናቸው?
-sc-review-form-usage = ዓረፍተ ነገሩን ለማጽደቅ ወደ ቀኝ ያንሸራትቱ። ላለመቀበል ወደ ግራ ያንሸራትቱ። ለመዝለል ወደ ላይ ያንሸራትቱ። <strong>ግምገማህን ማስገባትህን አትርሳ!</strong>
+    .message = Himoonni ilaalaman hin galle. Isin mikannoo dhaa?
+sc-review-form-usage = Himicha mirkaneessuuf gara mirgaatti gototaa. Mirkaneessuu dhiisuuf gara butaatti gutotaa. Irra darbuuf gara olii gototaa. <strong>Gamaggama kee galchuu akka hin daganne!</strong>
 # Variables:
 #   $sentenceSource (Number) - Associated source the user filled out when uploading the sentence
-sc-review-form-source = ምንጭ፡ { $sentenceSource }
-sc-review-form-button-reject = ውድቅ አድርግ
-sc-review-form-button-skip = ዝለል
-sc-review-form-button-approve = አጽድቅ
+sc-review-form-source = Madda፡ { $sentenceSource }
+sc-review-form-button-reject = Kufaa godhi
+sc-review-form-button-skip = Irra darbi
+sc-review-form-button-approve = Cimsi
 # Keyboard shortcut to use to approve a sentence (sc-review-form-button-approve)
-sc-review-form-button-approve-shortcut = ዓ
+sc-review-form-button-approve-shortcut = M
 # Keyboard shortcut to use to reject a sentence (sc-review-form-button-reject)
-sc-review-form-button-reject-shortcut = ው
+sc-review-form-button-reject-shortcut = K
 # Keyboard shortcut to use to skip a sentence (sc-review-form-button-skip)
-sc-review-form-button-skip-shortcut = ዝ
-sc-review-form-keyboard-usage-custom = እንዲሁም የቁልፍ ሰሌዳ አቋራጮችን መጠቀም ይችላሉ፡ { sc-review-form-button-approve-shortcut } ለማጽደቅ፣ { sc-review-form-button-reject-shortcut } ውድቅ ለማድረግ፣ { sc-review-form-button-skip-shortcut } ለመዝለል
+sc-review-form-button-skip-shortcut = I
+sc-review-form-keyboard-usage-custom = Akkasumas kiyboordii gabaabsii biraa fayyadamuu dandeessa.
+{ sc-review-form-button-approve-shortcut } Cimsuuf, { sc-review-form-button-reject-shortcut } Kutaa Gochuuf, { sc-review-form-button-skip-shortcut } Irra darbuuf
 sc-review-form-button-submit =
-    .submitText = ግምገማን ጨርስ
+    .submitText = Gamaggama kee goolabi.
 # Variables:
 #   $sentences (Number) - Number of sentences the user has reviewed in this session
 sc-review-form-reviewed-message =
     { $sentences ->
-        [0] ምንም ዓረፍተ ነገር አልተገመገመም።
-        [one] 1 ዓረፍተ ነገር ተገምግሟል። አመሰግናለሁ!
-       *[other] { $sentences } ዓረፍተ ነገሮች ተገምግመዋል። አመሰግናለሁ!
+        [0] Himni tokkoyyuu hin gamaggamane
+        [one] 1 Himni gamaggamameera. Sin galateeffadha!
+       *[other] { $sentences } himoonni gamagamamaniiru. singalateeffadha!
     }
 sc-review-form-review-failure = ግምገማ ሊቀመጥ አልቻለም። እባክዎ ቆየት ብለው ይሞክሩ።
 sc-review-link = ይገምግሙ
